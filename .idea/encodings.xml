@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/test/java/com/kushkumardhawan/reactive/test/MonoTest.java" charset="US-ASCII" />
+    <file url="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.3.5.RELEASE/reactor-core-3.3.5.RELEASE.jar!/reactor/core/CorePublisher.class" charset="UTF-16LE" />
+    <file url="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.3.5.RELEASE/reactor-core-3.3.5.RELEASE.jar!/reactor/core/publisher/Mono.class" charset="UTF-16BE" />
+    <file url="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.3.5.RELEASE/reactor-core-3.3.5.RELEASE.jar!/reactor/core/publisher/UnsafeSupport.class" charset="UTF-16LE" />
+  </component>
+</project>
